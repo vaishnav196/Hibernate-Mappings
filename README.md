@@ -1,1 +1,1 @@
-Hibernate Mappings OneToOne and OneToMany 
+Hibernate Mappings OneToOne and OneToMany.
